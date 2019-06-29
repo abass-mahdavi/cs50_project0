@@ -7,19 +7,19 @@ Dear Professor, Dear teaching assistant,
 In order to fulfill project 0 requirements, I have developed 4 html pages featuring locations close to where I live. I focused my efforts on fulfilling the requirements, therefore these pages do not provide the information these locations deserve.
 
 Project 0 structure:
-Four (4) html pages:
-Yverdon-les-Bains.html
-Champ_Pittet.html
-Grandson.html
-Yvonand.html
-One (1) css file :
-style.css
-Tree (3) scss files and their related css and css.map files:
-section_format.scss
-img_table.scss
-h1_h2_h3_formats.scss
-One folder containing the images:
-pics
+- Four (4) html pages:
+  - Yverdon-les-Bains.html
+  - Champ_Pittet.html
+  - Grandson.html
+  - Yvonand.html
+- One (1) css file :
+  - style.css
+- Tree (3) scss files and their related css and css.map files:
+  - section_format.scss
+  - img_table.scss
+  - h1_h2_h3_formats.scss
+- One folder containing the images:
+  - pics
 
 Project 0 requirements walkthrough:
 Your website must contain at least four different .html pages, and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
