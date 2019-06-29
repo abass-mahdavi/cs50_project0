@@ -1,0 +1,55 @@
+a {
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+
+th {
+  background-color: lightgray;
+}
+
+ul>li {
+  font-weight: bold;
+}
+
+ul+h5 {
+  font-style: italic;
+}
+
+ul:hover {
+  background-color: yellow;
+}
+
+#natural_reserve {
+  color: green;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h1, h2, h3 {
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+
+@media (min-width: 700px) {
+  iframe {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: : 25%;
+  }
+}
+
+@media (max-width: 699px) {
+  iframe {
+    width: 100%;
+  }
+}

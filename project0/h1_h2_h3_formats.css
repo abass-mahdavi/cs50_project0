@@ -1,0 +1,14 @@
+h1, h2 {
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+
+h3 {
+  background-color: black;
+  color: red;
+  text-align: left;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=h1_h2_h3_formats.css.map */

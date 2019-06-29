@@ -1,0 +1,22 @@
+div {
+  color: #1C2833;
+}
+div img {
+  display: table-cell;
+  height: 200px;
+  width: auto;
+  margin: auto;
+  border: 3px;
+  padding: 10px;
+}
+div table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 60%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: auto;
+  margin-left: 5%;
+}
+
+/*# sourceMappingURL=img_table_formats.css.map */

@@ -1,0 +1,17 @@
+$color: red;
+$background-color: black;
+
+
+h1, h2 {
+  background-color: $background-color;
+  color: $color;
+  text-align: center;
+}
+
+h3 {
+  background-color: $background-color;
+  color: $color;
+  text-align: left;
+  padding: 10px;
+  
+}

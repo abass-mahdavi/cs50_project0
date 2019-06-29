@@ -1,0 +1,20 @@
+%section {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+.title_section {
+  @extend %section;
+  color: yellow;
+}
+
+.links_section {
+  @extend %section;
+  color: springgreen;
+}
+
+.description_section {
+  @extend %section;
+  margin-left: 10%;
+  margin-right: 10%;
+}

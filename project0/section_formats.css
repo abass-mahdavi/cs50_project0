@@ -1,0 +1,19 @@
+.description_section, .links_section, .title_section {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+.title_section {
+  color: yellow;
+}
+
+.links_section {
+  color: springgreen;
+}
+
+.description_section {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/*# sourceMappingURL=section_formats.css.map */
