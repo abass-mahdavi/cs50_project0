@@ -29,6 +29,7 @@ Each html page ends with four hyperlinks, one for each of the 4 pages.
 Your website must include at least one list (ordered or unordered), at least one table, and at least one image.
 the page Yverdon-les-Bains.html contrains: 
 an unordered list (starting line 38):
+```
     <ul>
       <li>Lausanne</li>
       <li>Neuchâtel</li>
@@ -36,7 +37,9 @@ an unordered list (starting line 38):
       <li>Balel</li>
       <li>Zurich</li>
     </ul>
+```
 a table (starting line 50):
+```
     <table>
       <tr>
         <th>Location</th>
@@ -46,6 +49,7 @@ a table (starting line 50):
       .......
 	  .......
     </table>
+ ```
 All four pages contain images.
 
 Your website must have at least one stylesheet file.
@@ -71,6 +75,7 @@ check style.css line 43, use case in Grandson.html line 32. When the width of th
 
 You must use Bootstrap 4 on your website, taking advantage of at least one Bootstrap component, and using at least two Bootstrap columns for layout purposes using Bootstrap’s grid model.
 all html pages use Bootstrp's grid model to organize the images, here is an example from Champ_Pittet.html starting line 15:
+ ```
   <div class="container">
     <div class="row">
       <div class="col-sm">
@@ -81,6 +86,7 @@ all html pages use Bootstrp's grid model to organize the images, here is an exam
       </div>
     </div>
   </div>
+ ```
   
 on the same page we have also used the "alert buttons" of Bootstrp, line 35:
     <div class="alert alert-success" role="alert">
