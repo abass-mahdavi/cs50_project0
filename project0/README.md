@@ -23,12 +23,12 @@ In order to fulfill project 0 requirements, I have developed 4 html pages featur
 
 ## Project 0 requirements walkthrough:
 ### Your website must contain at least four different .html pages, and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
-Four html pages developed
-Each html page ends with four hyperlinks, one for each of the 4 pages.
+- Four html pages developed
+- Each html page ends with four hyperlinks, one for each of the 4 pages.
 
 ### Your website must include at least one list (ordered or unordered), at least one table, and at least one image.
-the page Yverdon-les-Bains.html contrains: 
-an unordered list (starting line 38):
+#### the page Yverdon-les-Bains.html contrains: 
+- an unordered list (starting line 38):
 ```
     <ul>
       <li>Lausanne</li>
@@ -38,19 +38,19 @@ an unordered list (starting line 38):
       <li>Zurich</li>
     </ul>
 ```
-a table (starting line 50):
+- a table (starting line 50):
 ```
     <table>
       <tr>
-        <th>Location</th>
-        <th>distance in Km</th>
-        <th>link to web page</th>
+	<th>Location</th>
+	<th>distance in Km</th>
+	<th>link to web page</th>
       </tr>
       .......
 	  .......
     </table>
  ```
-All four pages contain images.
+- All four pages contain images.
 
 ### Your website must have at least one stylesheet file.
 style.css
