@@ -55,7 +55,7 @@ In order to fulfill project 0 requirements, I have developed 4 html pages featur
 ### Your website must have at least one stylesheet file.
 - style.css
 
-## Your stylesheet(s) must use at least five different CSS properties, and at least five different types of CSS selectors. You must use the #id selector at least once, and the .class selector at least once.
+### Your stylesheet(s) must use at least five different CSS properties, and at least five different types of CSS selectors. You must use the #id selector at least once, and the .class selector at least once.
 ### at least five different CSS properties:
 - there are plenty, for example line 4 to line 8 of style.css file:
 ### at least five different types of CSS selectors:
